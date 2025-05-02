@@ -32,3 +32,5 @@ Simultaneously, a separate yet interconnected axis explores energy transformatio
 #
 
 ![Sourceduty Science Subject](https://github.com/user-attachments/assets/4d58289c-2670-4ef1-80cb-353b3873bf5d)
+
+[Sourceduty Science SUbject](https://chatgpt.com/g/g-67b1bb1a8e14819198203e251061b776-sourceduty-science-subject)
