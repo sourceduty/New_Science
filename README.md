@@ -30,9 +30,7 @@ These **20** science subjects represent a visionary taxonomy of interdisciplinar
 Simultaneously, a separate yet interconnected axis explores energy transformation and physical reactor systems through subjects like Electrohydrodynamic Reactors, Electrophysics Reactors, and Computational Electrofusion. These subjects delve into the mechanics of energy flow, plasma dynamics, and high-voltage interactions, combining natural analogs like fulgurites with engineered technologies like arc welding. Innovations such as Biomechanical Logic and Quantum Neurogenetics offer new interpretations of cognition, bodily function, and neurological development, merging biology with quantum theory and mechanical computation. Meanwhile, systems like File Farming and Systematic Aerologics propose speculative but structured approaches to information growth and atmospheric analytics, showcasing how digital and physical realms can be harmonized. The culminating subject, Xenodynamics, explores the meta-structure of dynamical systems themselves, with its subfield Quantum Xenodynamics proposing entirely new paradigms for observing and intervening in exotic, non-Euclidean dynamic environments. Altogether, the Sourceduty framework stands as a bold intellectual synthesis, aspiring to unify disparate sciences under a scalable, computationally driven ethos.
 
 #
-![New Science](https://github.com/user-attachments/assets/059f713f-6c06-4dbb-885f-b3422875072b)
-#
 
 ![Sourceduty Science Subject](https://github.com/user-attachments/assets/4d58289c-2670-4ef1-80cb-353b3873bf5d)
-
+<br>
 [Sourceduty Science Subject](https://chatgpt.com/g/g-67b1bb1a8e14819198203e251061b776-sourceduty-science-subject)
