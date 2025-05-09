@@ -1,0 +1,49 @@
+Quantum Science Toolkit
+│
+├── 1. User Interface Layer
+│   ├── Quantum Circuit Designer GUI (Drag-and-Drop)
+│   ├── CLI for Quantum Job Submission
+│   └── Jupyter/Notebook Integration
+│
+├── 2. Application Logic Layer
+│   ├── Experiment Orchestrator
+│   │   ├── Job Scheduler (Local/Cloud Quantum Backends)
+│   │   └── Circuit Compilation Manager
+│   ├── Input/Output Handler
+│   │   ├── QASM, OpenQASM, QIR Parsers
+│   │   └── Validation & Preprocessing
+│   └── Simulation Configurator
+│       ├── Noise Models
+│       └── Backend Emulator Settings
+│
+├── 3. Computational Core
+│   ├── Quantum Algorithms Module
+│   │   ├── Quantum Fourier Transform
+│   │   ├── Grover’s Search
+│   │   ├── Shor’s Algorithm
+│   │   └── VQE/QAOA
+│   ├── Quantum Simulation Engine
+│   │   ├── State Vector Simulator
+│   │   ├── Density Matrix Simulator
+│   │   └── Stabilizer Formalism
+│   └── Hybrid Quantum-Classical Routines
+│       ├── Optimizers (COBYLA, SPSA, Adam)
+│       └── Feedback Loop Manager
+│
+├── 4. Data Layer
+│   ├── Quantum Datasets
+│   │   ├── Hamiltonians
+│   │   ├── Benchmark Circuits
+│   │   └── Experimental Results Archive
+│   ├── Data Management
+│   │   ├── Result Serialization (HDF5, JSON)
+│   │   └── Quantum Job Tracking DB
+│   └── Backend Integration
+│       ├── IBM Q, IonQ, Rigetti APIs
+│       └── Simulated vs Real Hardware Tagging
+│
+└── 5. Utility & Integration Layer
+    ├── Quantum Circuit Visualization (TikZ, Plotly)
+    ├── Error Analysis & Mitigation Tools
+    ├── Export Utilities (QASM, PNG, PDF)
+    └── Plugin Support (Qiskit, Cirq, PennyLane, Braket)
