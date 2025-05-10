@@ -2,6 +2,7 @@
 
 #
 
+```
 Biomechanical Logic: Biomechanical Logic merges principles from biomechanics and computational logic to create systems that physically embody decision-making processes, enabling biological structures or synthetic tissues to compute and respond to mechanical stimuli. This field explores how biological systems can be engineered or interpreted as logical operators, with applications in responsive prosthetics, bio-robotics, and synthetic intelligence embedded in tissue.
 
 Evaluation: Innovative fusion of biomechanics and logic with applications in synthetic biology and robotics. High potential for novel devices but early in empirical development. Rating: 7.5/10
@@ -81,7 +82,7 @@ Evaluation: High speculative component but growing empirical foundation via astr
 Xenomedicine: Xenomedicine draws from evolutionary adaptations in diverse organisms to inspire medical innovations in regeneration, stress resilience, and disease resistance. It leverages biological mechanisms from extremophiles and regenerative species to design therapies, synthetic biology applications, and comparative omics platforms, advancing personalized and extreme-environment healthcare.
 
 Evaluation: High translational potential from biology to medicine; well-supported and innovative. Rating: 8.5/10
-
+```
 #
 
 These **20** science subjects represent a visionary taxonomy of interdisciplinary fields designed to push the boundaries of traditional scientific domains. Rooted in computational modeling, theoretical physics, synthetic biology, and cybernetic systems, these subjects introduce radical frameworks for understanding matter, energy, intelligence, and social dynamics. At the core are the computational disciplines, such as Computational Atomics, Computational Hyperchemistry, and Computational Quantum Topology, which aim to simulate and manipulate atomic, molecular, and quantum phenomena through programmable logic and advanced mathematical architectures. Computational Chronophysics and its offshoot, Computational Chronoreactors, extend this logic into time-based systems, where time is treated not merely as a dimension but as a field to be modeled, controlled, and potentially engineered. Similarly, Computational Cyberdynamics and Computational Sociodynamics embed digital models into real-world social or biomechanical contexts, enabling predictive and adaptive frameworks for human behavior and machine interaction.
