@@ -2,7 +2,7 @@
 
 #
 
-| Field                          | Description                                                                                         | Evaluation                                                                       | Rating  |
+| New Field                          | Description                                                                                         | Evaluation                                                                       | Rating  |
 |--------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------|
 | Biomechanical Logic            | Merges biomechanics and computational logic to create systems that physically embody decision-making processes. | Innovative fusion, high potential, early empirical development.                 | 7.5/10  |
 | Computational Atomics          | Simulates atomic and subatomic interactions to model quantum behaviors and material properties.    | Strong empirical grounding, broad interdisciplinary integration.                | 9.0/10  |
