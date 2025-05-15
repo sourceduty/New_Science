@@ -56,3 +56,5 @@ The development of a structured framework evaluation system holds transformative
 [Science Toolkit](https://chatgpt.com/g/g-681d85d798408191b41ca15ee1b534d1-science-toolkit)
 <br>
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
+<br>
+[Atomic Science](https://github.com/sourceduty/Atomic_Science)
