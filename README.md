@@ -58,3 +58,5 @@ The development of a structured framework evaluation system holds transformative
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
 <br>
 [Atomic Science](https://github.com/sourceduty/Atomic_Science)
+<br>
+[PNN](https://github.com/sourceduty/Predictive_Neural_Network)
