@@ -69,3 +69,5 @@ However, some caveats remain. While the framework scores highly on generality, s
 [Atomic Science](https://github.com/sourceduty/Atomic_Science)
 <br>
 [PNN](https://github.com/sourceduty/Predictive_Neural_Network)
+<br>
+[Science X](https://github.com/sourceduty/Science_X)
