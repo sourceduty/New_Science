@@ -115,11 +115,15 @@ However, the claim that theoretical ontology is the highest science must be eval
 
 #
 
+![Framework Evaluation](https://github.com/user-attachments/assets/3ddad638-249c-4f88-b34b-3cef887b1bf0)
+
+[Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation) will systematically assess the quality, validity, and impact of theoretical frameworks across all scientific disciplines. Drawing from philosophy of science, cognitive psychology, social epistemology, data analysis, and machine learning, it applies a multi-dimensional set of criteria to evaluate theories in terms of their explanatory power, predictive accuracy, empirical support, logical consistency, falsifiability, parsimony, scope, generality, coherence with established knowledge, and capacity to generate novel hypotheses. Frameworks are not merely judged on isolated merits but in relation to their ability to unify disparate findings, resolve scientific disputes, and guide future research in productive directions. By using a structured, step-by-step, multiple-choice questioning process, this GPT helps users navigate complex theoretical landscapes, ultimately aiming to build a comprehensive "theory-of-theories"—a meta-framework capable of prioritizing robust scientific models and fostering interdisciplinary synthesis. This approach seeks to accelerate discovery and improve how science addresses complex, real-world challenges.
+
+#
+
 [Sourceduty Science Field](https://chatgpt.com/g/g-67b1bb1a8e14819198203e251061b776-sourceduty-science-field)
 <br>
 [Science Toolkit](https://chatgpt.com/g/g-681d85d798408191b41ca15ee1b534d1-science-toolkit)
-<br>
-[Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
 <br>
 [Atomic Science](https://github.com/sourceduty/Atomic_Science)
 <br>
